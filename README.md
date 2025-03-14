@@ -1,4 +1,4 @@
-# ProuDT: Revisiting Simplicity 🎉
+# 🌳 ProuDT: Revisiting Simplicity 🎉
 
 **Revisiting Simplicity: An Accurate Probabilistic Univariate Decision Tree**
 
@@ -8,3 +8,5 @@
 ## ✨ Key Features
 
 ## 🚀 Get Started
+
+
