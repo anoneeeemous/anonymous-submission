@@ -7,7 +7,6 @@ This directory contains code to reproduce the experiments from our paper on Prou
 - All dependencies from the main project
 - Datasets should be available in the /datasets directory. Please first unzip the file to access most datasets. Due to the size constraint, the following datasets are not included in the folder. It can be downloaded to /datasets directory. 
 
-## Classification (Large)
 
 | Dataset Name | Download Link |
 |-------------|--------------|
@@ -16,7 +15,7 @@ This directory contains code to reproduce the experiments from our paper on Prou
 | sensIT         | [Download_test_default](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass/vehicle/combined_scale.t.bz2) |
 
   
-- For large datasets, sufficient RAM and preferably a GPU
+- For large datasets, ensure sufficient RAM and preferably a GPU
 
 ## Overview
 
