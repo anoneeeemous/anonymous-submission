@@ -1,0 +1,2 @@
+Dataset Name,Depth,Mean Test Accuracy,Std Test Accuracy,Mean F1 Score,Std F1 Score,Mean Training Time,Mean Test Acc Time
+acute-inflammations-2,8,1.0,0.0,1.0,0.0,4.590096314748128,0.002995014190673828

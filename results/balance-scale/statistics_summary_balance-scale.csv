@@ -1,0 +1,2 @@
+Dataset Name,Depth,Mean Test Accuracy,Std Test Accuracy,Mean F1 Score,Std F1 Score,Mean Training Time,Mean Test Acc Time
+balance-scale,2,0.7756410256410257,0.0,0.5378046610923324,0.0,0.5507712364196777,0.00031304359436035156
