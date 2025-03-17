@@ -1,6 +1,22 @@
 # Reproducing Experiments
 
-This directory contains code to reproduce the experiments from our paper on ProuDT. For GradTree implementation, you can refer to the source code here: [GradTree Repository](https://github.com/s-marton/GradTree).
+This directory contains code to reproduce the experiments from our paper on ProuDT. For GradTree implementation, you can refer to the source code here: [GradTree Repository](https://github.com/s-marton/GradTree). 
+
+## Requirements
+
+- All dependencies from the main project
+- Datasets should be available in the /datasets directory. Please first unzip the file to access most datasets. Due to the size constraint, the following datasets are not included in the folder. It can be downloaded to /datasets directory. 
+
+## Classification (Large)
+
+| Dataset Name | Download Link |
+|-------------|--------------|
+| mnist       | PyTorch Auto-Download |
+| sensIT         | [Download_train_default](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass/vehicle/combined_scale.bz2) |
+| sensIT         | [Download_test_default](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass/vehicle/combined_scale.t.bz2) |
+
+  
+- For large datasets, sufficient RAM and preferably a GPU
 
 ## Overview
 
@@ -41,11 +57,7 @@ python experiments/experiment.py --datasetname pendigits --depth 9 --trials 5
 
 
 
-## Requirements
 
-- All dependencies from the main project
-- Datasets should be available in the /datasets directory. Please unzip the file.
-- For large datasets, sufficient RAM and preferably a GPU
 
 
 
