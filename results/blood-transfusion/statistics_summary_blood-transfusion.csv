@@ -1,2 +1,0 @@
-Dataset Name,Depth,Mean Test Accuracy,Std Test Accuracy,Mean F1 Score,Std F1 Score,Mean Training Time,Mean Test Acc Time
-blood-transfusion,8,0.7754010695187166,0.004366291876618873,0.5701992832611936,0.04711506448200639,2.2664860089619956,0.0037230650583902993

@@ -1,2 +1,0 @@
-Trial,Seed,name,Depth,Optimal Epoch,Train Accuracy,Test Accuracy,Train F1 Macro,Test F1 Macro,Train Loss,Validation Loss,Train Time,Test Accuracy Time
-1,0,mnist,2,2297,0.33270833333333333,0.3346,0.25125498363297005,0.2507010904184849,1.3173332214355469,1.3142683506011963,71.25384879112244,0.006714820861816406

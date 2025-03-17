@@ -1,2 +1,0 @@
-Dataset Name,Depth,Mean Test Accuracy,Std Test Accuracy,Mean F1 Score,Std F1 Score,Mean Training Time,Mean Test Acc Time
-climate_crashes,8,0.9506172839506172,0.00923866021425661,0.8087896360812193,0.05367009112512186,6.869004487991333,0.003851652145385742
