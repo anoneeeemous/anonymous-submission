@@ -8,6 +8,11 @@ ProuDT is a novel univariate probabilistic decision tree that is easy to deploy.
 ## 🚀 Get Started
 
 - For experiment reproducibility, please see the /experiments folder.
+- Python 3.9 or higer is recommended. Install all required packages using pip:
+
+```bash
+pip install -r requirement.txt
+```
 - The implementation of ProuDT is straightforward for classification tasks. The following is an example.
 
 ### Prepare your data
